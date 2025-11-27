@@ -1,5 +1,7 @@
 # Welcome to your Lovable project
 
+#this is an lovable AI project
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/42babe31-7cb2-45fd-8f3e-c8f4eebbd9c6
